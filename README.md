@@ -26,8 +26,6 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-To ensure the server operates correctly, you will need to create two databases: one for the main application and one for testing. Additionally, you will need to provide the connection details in a .env file.
-
 ## Installation
 
 ```bash
